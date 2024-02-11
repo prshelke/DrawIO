@@ -1,11 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T07:21:03.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="O1VKExcy8N6XGVuwww0Q" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T15:19:59.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="SbFOhCkMPXIFeHhbpxd-" version="23.1.2" type="github">
   <diagram name="Page-1" id="iRycTcpXz6wnPRojM1Up">
     <mxGraphModel dx="1173" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="10fPlff57ASvPakvpMOe-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="270" width="30" height="60" as="geometry" />
+        <mxCell id="b6su2mbRExA16IoP18ZC-20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Security Copilot" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="430" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-21" value="Skill Invocation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-24" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-30" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;MAC/EAC Server" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-25" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Augloop" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="430" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-26" value="Skill Host" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-27" value="Transpiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-28" value="ODSL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-35" value="Medeina Orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-36" value="Plugin Discovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-37" value="Skill Catalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-38" value="Skill Discovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-39" value="Plugin Catalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-35" target="b6su2mbRExA16IoP18ZC-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
