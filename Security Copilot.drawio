@@ -1,50 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T15:19:59.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="SbFOhCkMPXIFeHhbpxd-" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T15:38:46.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Lr39UmREYUu6USJjmSpq" version="23.1.2" type="github">
   <diagram name="Page-1" id="iRycTcpXz6wnPRojM1Up">
     <mxGraphModel dx="1173" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="b6su2mbRExA16IoP18ZC-20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Security Copilot" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="b6su2mbRExA16IoP18ZC-25" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Augloop" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="200" y="280" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Security Copilot" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="40" width="430" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-21" value="Skill Invocation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-21" target="b6su2mbRExA16IoP18ZC-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="240" />
+              <mxPoint x="305" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-21" value="Skill Invocation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-24" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="30" height="60" as="geometry" />
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-24" target="b6su2mbRExA16IoP18ZC-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-30" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;MAC/EAC Server" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="170" height="170" as="geometry" />
+        <mxCell id="b6su2mbRExA16IoP18ZC-24" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-25" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Augloop" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="260" width="430" height="170" as="geometry" />
+        <mxCell id="b6su2mbRExA16IoP18ZC-30" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;MAC/EAC Server" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;align=center;horizontal=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="610" y="280" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-26" value="Skill Host" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-26" target="b6su2mbRExA16IoP18ZC-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-27" value="Transpiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="675" y="320" width="80" height="30" as="geometry" />
+        <mxCell id="b6su2mbRExA16IoP18ZC-26" value="Skill Host" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="315" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-28" value="ODSL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="305" width="80" height="30" as="geometry" />
+        <mxCell id="b6su2mbRExA16IoP18ZC-27" value="Auth &amp;amp; Eligibility" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="325" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-35" value="Medeina Orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b6su2mbRExA16IoP18ZC-28" value="ODSL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="345" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-35" target="b6su2mbRExA16IoP18ZC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-35" value="Medeina Orchestrator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-36" value="Plugin Discovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-36" target="b6su2mbRExA16IoP18ZC-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-36" target="b6su2mbRExA16IoP18ZC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-36" value="Plugin Discovery" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-37" value="Skill Catalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-37" target="b6su2mbRExA16IoP18ZC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-37" value="Skill Catalog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-38" value="Skill Discovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-38" target="b6su2mbRExA16IoP18ZC-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-38" target="b6su2mbRExA16IoP18ZC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-38" value="Skill Discovery" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-39" value="Plugin Catalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-39" target="b6su2mbRExA16IoP18ZC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b6su2mbRExA16IoP18ZC-39" value="Plugin Catalog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6su2mbRExA16IoP18ZC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b6su2mbRExA16IoP18ZC-35" target="b6su2mbRExA16IoP18ZC-35">
+        <mxCell id="b6su2mbRExA16IoP18ZC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="b6su2mbRExA16IoP18ZC-35" target="b6su2mbRExA16IoP18ZC-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-18" value="Transpiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-19" value="&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;b&gt;..&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;Skill Business Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-21" value="Skill1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7IPuJ_rpKLFx-LysMHHV-22" value="Skill2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="370" width="39" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
